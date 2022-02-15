@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: 'Final model by Katice Helinski. Image courtesy of OCW. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-196-architecture-design-level-ii-cuba-studio-spring-2004/2f87353ef7aa91d6f5b13456e3affddf_katicel06.jpg
+file: /media/courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/2f87353ef7aa91d6f5b13456e3affddf_katicel06.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Final model by Katice Helinski.
   credit: Image courtesy of OCW.
   image-alt: Work by Katice Helinski.
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: katicel06.jpg
 uid: 2f87353e-f7aa-91d6-f5b1-3456e3affddf

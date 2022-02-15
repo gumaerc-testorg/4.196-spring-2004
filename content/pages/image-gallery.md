@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: 693a15a7-dfab-f65d-8325-e7f4942f0a8a
 ---
@@ -8,7 +10,7 @@ Images from the Cuba Trip
 -------------------------
 
 All images are courtesy of Prof. Jan Wampler and used with permission.
-{{< image-gallery id="693a15a7-dfab-f65d-8325-e7f4942f0a8a_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-196-architecture-design-level-ii-cuba-studio-spring-2004/" >}}
+{{< image-gallery id="693a15a7-dfab-f65d-8325-e7f4942f0a8a_nanogallery2" baseUrl="/courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/" >}}
 {{< image-gallery-item href="4da71e5de1aead2174e1a451f362ffb0_cuba01.jpg" data-ngdesc="Site along the Malecon. All images are courtesy of Prof. Jan Wampler and used with permission." text="Site along the Malecon." >}}
 {{< image-gallery-item href="ebf6fcaab1ea18337a9fed086b14bf9a_cuba02.jpg" data-ngdesc="The park in front of the site. All images are courtesy of Prof. Jan Wampler and used with permission." text="The park in front of the site." >}}
 {{< image-gallery-item href="6ac023bf7fafe6674152532ef5aec6b1_cuba03.jpg" data-ngdesc="The wall along the Malecon looking towards Old Havana. All images are courtesy of Prof. Jan Wampler and used with permission." text="The wall along the Malecon looking towards Old Havana." >}}
