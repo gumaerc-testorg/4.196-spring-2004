@@ -1,9 +1,9 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
-parent_uid: null
 title: Projects
 uid: 9a0c3636-30a3-ad74-1e1b-96382ad91282
 ---
