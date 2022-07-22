@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 9a0c3636-30a3-ad74-1e1b-96382ad91282
 ---
@@ -8,7 +12,7 @@ Images of Student Work from the Semester
 ----------------------------------------
 
 (Courtesy of Katice Helinski, Elliot Felix, and Nicole Vlado. Used with permission.)
-{{< image-gallery id="9a0c3636-30a3-ad74-1e1b-96382ad91282_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-196-architecture-design-level-ii-cuba-studio-spring-2004/" >}}
+{{< image-gallery id="9a0c3636-30a3-ad74-1e1b-96382ad91282_nanogallery2" baseUrl="/courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/" >}}
 {{< image-gallery-item href="6a5892855ea516be6949d8aa678ed097_edf02.jpg" data-ngdesc="Sketch model by Elliot Felix. Image courtesy of OCW." text="Sketch model by Elliot Felix." >}}
 {{< image-gallery-item href="06f31e50f7fc988b362934066b5fe662_edf03.jpg" data-ngdesc="Elevation montage by Elliot Felix. Image courtesy of OCW." text="Elevation montage by Elliot Felix." >}}
 {{< image-gallery-item href="0395f0252a791eba91738d8b404bcb86_edf04.jpg" data-ngdesc="Final model by Elliot Felix. Image courtesy of OCW." text="Final model by Elliot Felix." >}}
