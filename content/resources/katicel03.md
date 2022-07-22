@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Work by Katice Helinski.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: katicel03.jpg
 uid: 159a955a-bd67-e908-a683-b64f2323ac56
 ---
 Elevation montage by Katice Helinski. Image courtesy of OCW.
-

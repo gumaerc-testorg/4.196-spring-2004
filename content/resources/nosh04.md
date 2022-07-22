@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Work by Nicole Vlado.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: nosh04.jpg
 uid: 86b3e571-c5f0-837b-a830-39eecfca7404
 ---
 Elevation montage by Nicole Vlado. Image courtesy of OCW.
-

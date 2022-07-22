@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Prof. Jan Wampler and used with permission.
   image-alt: The wall along the Malecon looking towards Old Havana.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: cuba03.jpg
 uid: 6ac023bf-7faf-e667-4152-532ef5aec6b1
 ---
 The wall along the Malecon looking towards Old Havana. All images are courtesy of Prof. Jan Wampler and used with permission.
-

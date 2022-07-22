@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Work by Katice Helinski.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: katicel05.jpg
 uid: 2031c5be-8190-5680-93cc-7b237a158246
 ---
 Chunk model by Katice Helinski. Image courtesy of OCW.
-

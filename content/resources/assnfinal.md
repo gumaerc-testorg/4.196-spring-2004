@@ -5,6 +5,7 @@ file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/dd9038
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assnfinal.pdf
 uid: dd9038de-ff57-e8cd-3e74-c7ff52011e1a
 ---
 Instructions and guidelines for the final project and presentation.
-

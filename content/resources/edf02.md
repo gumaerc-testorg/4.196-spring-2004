@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Work by Elliot Felix.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: edf02.jpg
 uid: 6a589285-5ea5-16be-6949-d8aa678ed097
 ---
 Sketch model by Elliot Felix. Image courtesy of OCW.
-

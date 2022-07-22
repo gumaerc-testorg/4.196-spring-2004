@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Prof. Jan Wampler and used with permission.
   image-alt: A typical street in the area.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: cuba06.jpg
 uid: 2ff42fe8-2583-7936-08b6-b1c8ee91d74d
 ---
 A typical street in the area. All images are courtesy of Prof. Jan Wampler and used with permission.
-

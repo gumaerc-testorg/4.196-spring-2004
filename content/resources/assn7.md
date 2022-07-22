@@ -5,6 +5,7 @@ file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/740727
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn7.pdf
 uid: 74072723-f305-e1e5-e824-3a21e686ee05
 ---
 Instructions and guidelines for preparing the final project and presentation.
-

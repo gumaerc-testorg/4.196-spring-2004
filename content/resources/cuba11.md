@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Prof. Jan Wampler and used with permission.
   image-alt: Viewing typical housing outside of Havana.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: cuba11.jpg
 uid: cb4aa7d3-ff15-3f64-6000-59f4b7e431c6
 ---
 Viewing typical housing outside of Havana. All images are courtesy of Prof. Jan Wampler and used with permission.
-

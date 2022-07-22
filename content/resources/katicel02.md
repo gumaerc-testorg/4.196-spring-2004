@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Work by Katice Helinski.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: katicel02.jpg
 uid: ba329272-cb91-7f6c-5039-686b41061eed
 ---
 Concept form (Junk) model by Katice Helinski. Image courtesy of OCW.
-

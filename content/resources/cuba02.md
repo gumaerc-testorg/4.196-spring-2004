@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Prof. Jan Wampler and used with permission.
   image-alt: The park in front of the site.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: cuba02.jpg
 uid: ebf6fcaa-b1ea-1833-7a9f-ed086b14bf9a
 ---
 The park in front of the site. All images are courtesy of Prof. Jan Wampler and used with permission.
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Work by Nicole Vlado.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: nosh07.jpg
 uid: 3207b7bf-25b8-1793-70be-910802ee1e60
 ---
 Final model by Nicole Vlado. Image courtesy of OCW.
-

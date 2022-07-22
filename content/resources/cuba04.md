@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Prof. Jan Wampler and used with permission.
   image-alt: The rooftops of the site.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: cuba04.jpg
 uid: 2573641d-3e91-534e-fd88-9bd0be5130b0
 ---
 The rooftops of the site. All images are courtesy of Prof. Jan Wampler and used with permission.
-

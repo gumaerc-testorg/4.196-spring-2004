@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Prof. Jan Wampler and used with permission.
   image-alt: Sketching at a village in the countryside.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: cuba10.jpg
 uid: ccf8d513-f60d-fb44-7845-035a1c10fa80
 ---
 Sketching at a village in the countryside. All images are courtesy of Prof. Jan Wampler and used with permission.
-

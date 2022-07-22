@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: nosh03.jpg
 uid: 49d36674-a897-a85b-f37c-7b36b1b098b2
 ---
 Concept form (Junk) model by Nicole Vlado. Image courtesy of OCW.
-

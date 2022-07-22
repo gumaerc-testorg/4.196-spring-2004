@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Prof. Jan Wampler and used with permission.
   image-alt: Site along the Malecon.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: cuba01.jpg
 uid: 4da71e5d-e1ae-ad21-74e1-a451f362ffb0
 ---
 Site along the Malecon. All images are courtesy of Prof. Jan Wampler and used with permission. 
-

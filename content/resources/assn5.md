@@ -5,6 +5,7 @@ file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/ce4826
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn5.pdf
 uid: ce482692-b490-9f00-5f4b-81cc9112e755
 ---
 Instructions and guidelines for project.
-

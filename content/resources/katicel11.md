@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Work by Katice Helinski.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: katicel11.jpg
 uid: d115b30f-222b-d5c7-2281-184479177db3
 ---
 Final model by Katice Helinski. Image courtesy of OCW.
-

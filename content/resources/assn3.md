@@ -5,6 +5,7 @@ file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/ed8f56
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn3.pdf
 uid: ed8f565e-e0ac-362d-5854-6d0409de5f23
 ---
 Instructions and guidelines for group assignment.
-
