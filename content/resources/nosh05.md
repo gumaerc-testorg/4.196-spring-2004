@@ -2,6 +2,7 @@
 content_type: resource
 description: Object form model by Nicole Vlado. Image courtesy of OCW.
 file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/1562e3079ddd48958384ac6396fb8618_nosh05.jpg
+file_size: 44067
 file_type: image/jpeg
 image_metadata:
   caption: Object form model by Nicole Vlado.

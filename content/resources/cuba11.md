@@ -3,6 +3,7 @@ content_type: resource
 description: Viewing typical housing outside of Havana. All images are courtesy of
   Prof. Jan Wampler and used with permission.
 file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/cb4aa7d3ff153f64600059f4b7e431c6_cuba11.jpg
+file_size: 72596
 file_type: image/jpeg
 image_metadata:
   caption: Viewing typical housing outside of Havana.
