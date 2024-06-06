@@ -3,6 +3,7 @@ content_type: resource
 description: The wall along the Malecon looking towards Old Havana. All images are
   courtesy of Prof. Jan Wampler and used with permission.
 file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/6ac023bf7fafe6674152532ef5aec6b1_cuba03.jpg
+file_size: 46052
 file_type: image/jpeg
 image_metadata:
   caption: The wall along the Malecon looking towards Old Havana.

@@ -3,6 +3,7 @@ content_type: resource
 description: Viewing a model of Havana. All images are courtesy of Prof. Jan Wampler
   and used with permission.
 file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/bf94b1da1cfd7df2fc83e7a60c72c76b_cuba12.jpg
+file_size: 62136
 file_type: image/jpeg
 image_metadata:
   caption: Viewing a model of Havana.
