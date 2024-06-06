@@ -3,6 +3,7 @@ content_type: resource
 description: The rooftops of the site. All images are courtesy of Prof. Jan Wampler
   and used with permission.
 file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/2573641d3e91534efd889bd0be5130b0_cuba04.jpg
+file_size: 65016
 file_type: image/jpeg
 image_metadata:
   caption: The rooftops of the site.

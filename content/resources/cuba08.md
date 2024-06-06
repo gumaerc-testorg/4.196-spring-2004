@@ -3,6 +3,7 @@ content_type: resource
 description: Jan Wampler with Cherie Abbanat filming the house. All images are courtesy
   of Prof. Jan Wampler and used with permission.
 file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/7d78525a6b478ddf05233d1b900b91d0_cuba08.jpg
+file_size: 71936
 file_type: image/jpeg
 image_metadata:
   caption: Jan Wampler with Cherie Abbanat filming the house.
