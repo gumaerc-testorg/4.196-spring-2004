@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sketch model by Katice Helinski. Image courtesy of OCW.
-file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/eedadaa65fd5afb1bd28a402fbfdf5bb_katicel01.jpg
+file: /ol-ocw-studio-app/courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/eedadaa65fd5afb1bd28a402fbfdf5bb_katicel01.jpg
 file_size: 34268
 file_type: image/jpeg
 image_metadata:
