@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Site along the Malecon. All images are courtesy of Prof. Jan Wampler
   and used with permission. '
-file: /ol-ocw-studio-app/courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/4da71e5de1aead2174e1a451f362ffb0_cuba01.jpg
+file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/4da71e5de1aead2174e1a451f362ffb0_cuba01.jpg
 file_size: 44634
 file_type: image/jpeg
 image_metadata:

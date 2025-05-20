@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Concept form (Junk) model by Nicole Vlado. Image courtesy of OCW.
-file: /ol-ocw-studio-app/courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/49d36674a897a85bf37c7b36b1b098b2_nosh03.jpg
+file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/49d36674a897a85bf37c7b36b1b098b2_nosh03.jpg
 file_size: 43402
 file_type: image/jpeg
 image_metadata:

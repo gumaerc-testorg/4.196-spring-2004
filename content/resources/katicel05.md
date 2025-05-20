@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Chunk model by Katice Helinski. Image courtesy of OCW.
-file: /ol-ocw-studio-app/courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/2031c5be8190568093cc7b237a158246_katicel05.jpg
+file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/2031c5be8190568093cc7b237a158246_katicel05.jpg
 file_size: 33628
 file_type: image/jpeg
 image_metadata:

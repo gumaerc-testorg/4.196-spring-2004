@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions and guidelines for project.
-file: /ol-ocw-studio-app/courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/ce482692b4909f005f4b81cc9112e755_assn5.pdf
+file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/ce482692b4909f005f4b81cc9112e755_assn5.pdf
 file_size: 8537
 file_type: application/pdf
 learning_resource_types:

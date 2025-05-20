@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final model by Katice Helinski. Image courtesy of OCW.
-file: /ol-ocw-studio-app/courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/4e4d7815b825f65f204458a450e0c88f_katicel10.jpg
+file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/4e4d7815b825f65f204458a450e0c88f_katicel10.jpg
 file_size: 43741
 file_type: image/jpeg
 image_metadata:
