@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Elevation montage by Katice Helinski. Image courtesy of OCW.
-file: /ol-ocw-studio-app/courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/159a955abd67e908a683b64f2323ac56_katicel03.jpg
+file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/159a955abd67e908a683b64f2323ac56_katicel03.jpg
 file_size: 47279
 file_type: image/jpeg
 image_metadata:

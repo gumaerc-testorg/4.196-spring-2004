@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final model by Nicole Vlado. Image courtesy of OCW.
-file: /ol-ocw-studio-app/courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/3207b7bf25b8179370be910802ee1e60_nosh07.jpg
+file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/3207b7bf25b8179370be910802ee1e60_nosh07.jpg
 file_size: 40814
 file_type: image/jpeg
 image_metadata:
