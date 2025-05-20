@@ -2,7 +2,7 @@
 content_type: resource
 description: A coffee plantation. All images are courtesy of Prof. Jan Wampler and
   used with permission.
-file: /ol-ocw-studio-app/courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/df090512a020c024f9fd927e37ec9904_cuba09.jpg
+file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/df090512a020c024f9fd927e37ec9904_cuba09.jpg
 file_size: 102029
 file_type: image/jpeg
 image_metadata:

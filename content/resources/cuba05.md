@@ -2,7 +2,7 @@
 content_type: resource
 description: More rooftops, viewed from the highest building on the site. All images
   are courtesy of Prof. Jan Wampler and used with permission.
-file: /ol-ocw-studio-app/courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/772794830de09f12a198908c07023290_cuba05.jpg
+file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/772794830de09f12a198908c07023290_cuba05.jpg
 file_size: 78876
 file_type: image/jpeg
 image_metadata:
