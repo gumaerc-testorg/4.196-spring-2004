@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions and guidelines for group assignment.
-file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/ad4e654b3d97b73e3d1aa3838ea49a05_assn4.pdf
+file: /ol-ocw-studio-app/courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/ad4e654b3d97b73e3d1aa3838ea49a05_assn4.pdf
 file_size: 23516
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Sketching at a village in the countryside. All images are courtesy of
   Prof. Jan Wampler and used with permission.
-file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/ccf8d513f60dfb447845035a1c10fa80_cuba10.jpg
+file: /ol-ocw-studio-app/courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/ccf8d513f60dfb447845035a1c10fa80_cuba10.jpg
 file_size: 97386
 file_type: image/jpeg
 image_metadata:
