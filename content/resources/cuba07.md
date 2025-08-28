@@ -2,7 +2,7 @@
 content_type: resource
 description: A typical house for eight to ten families. All images are courtesy of
   Prof. Jan Wampler and used with permission.
-file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/a61bbc1f279610d98fee863db97a103c_cuba07.jpg
+file: /ol-ocw-studio-app/courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/a61bbc1f279610d98fee863db97a103c_cuba07.jpg
 file_size: 63634
 file_type: image/jpeg
 image_metadata:
